@@ -1,0 +1,15 @@
+com\lambdaschool\tempEC\exceptions\ValidationError.class
+com\lambdaschool\tempEC\handlers\RestExceptionHandler.class
+com\lambdaschool\tempEC\controller\EmpConvoController.class
+com\lambdaschool\tempEC\services\ConversationService.class
+com\lambdaschool\tempEC\handlers\ScheduledTask.class
+com\lambdaschool\tempEC\config\SimpleCorsFilter.class
+com\lambdaschool\tempEC\EmpoweredConversationApplication.class
+com\lambdaschool\tempEC\config\WebConfig.class
+com\lambdaschool\tempEC\repository\ConversationRepository.class
+com\lambdaschool\tempEC\services\ConversationServiceImpl.class
+com\lambdaschool\tempEC\config\Swagger2Config.class
+com\lambdaschool\tempEC\exceptions\ResourceNotFoundException.class
+com\lambdaschool\tempEC\models\Auditable.class
+com\lambdaschool\tempEC\models\Conversation.class
+com\lambdaschool\tempEC\models\ErrorDetail.class
